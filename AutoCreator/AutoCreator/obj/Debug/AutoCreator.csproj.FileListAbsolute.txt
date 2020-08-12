@@ -1,0 +1,21 @@
+c:\users\асус\documents\visual studio 2012\Projects\AutoCreator\AutoCreator\bin\Debug\AutoCreator.exe.config
+c:\users\асус\documents\visual studio 2012\Projects\AutoCreator\AutoCreator\bin\Debug\AutoCreator.exe
+c:\users\асус\documents\visual studio 2012\Projects\AutoCreator\AutoCreator\bin\Debug\AutoCreator.pdb
+c:\users\асус\documents\visual studio 2012\Projects\AutoCreator\AutoCreator\obj\Debug\AutoCreator.Form1.resources
+c:\users\асус\documents\visual studio 2012\Projects\AutoCreator\AutoCreator\obj\Debug\AutoCreator.Properties.Resources.resources
+c:\users\асус\documents\visual studio 2012\Projects\AutoCreator\AutoCreator\obj\Debug\AutoCreator.csproj.GenerateResource.Cache
+c:\users\асус\documents\visual studio 2012\Projects\AutoCreator\AutoCreator\obj\Debug\AutoCreator.exe
+c:\users\асус\documents\visual studio 2012\Projects\AutoCreator\AutoCreator\obj\Debug\AutoCreator.pdb
+c:\users\асус\documents\visual studio 2012\Projects\AutoCreator\AutoCreator\obj\Debug\AutoCreator.csproj.ResolveComReference.cache
+C:\Users\асус\Documents\Visual Studio 2012\Projects\AutoCreator\AutoCreator\obj\Debug\AutoCreator.Editor.resources
+C:\Users\асус\documents\visual studio 2012\Projects\AutoCreator\AutoCreator\obj\Debug\AutoCreator.csprojResolveAssemblyReference.cache
+D:\De Musi\Murs & Bax\AutoCreator\AutoCreator\bin\Debug\AutoCreator.exe.config
+D:\De Musi\Murs & Bax\AutoCreator\AutoCreator\obj\Debug\AutoCreator.exe
+D:\De Musi\Murs & Bax\AutoCreator\AutoCreator\obj\Debug\AutoCreator.pdb
+D:\De Musi\Murs & Bax\AutoCreator\AutoCreator\bin\Debug\AutoCreator.exe
+D:\De Musi\Murs & Bax\AutoCreator\AutoCreator\bin\Debug\AutoCreator.pdb
+D:\De Musi\Murs & Bax\AutoCreator\AutoCreator\obj\Debug\AutoCreator.csprojResolveAssemblyReference.cache
+D:\De Musi\Murs & Bax\AutoCreator\AutoCreator\obj\Debug\AutoCreator.Editor.resources
+D:\De Musi\Murs & Bax\AutoCreator\AutoCreator\obj\Debug\AutoCreator.Form1.resources
+D:\De Musi\Murs & Bax\AutoCreator\AutoCreator\obj\Debug\AutoCreator.Properties.Resources.resources
+D:\De Musi\Murs & Bax\AutoCreator\AutoCreator\obj\Debug\AutoCreator.csproj.GenerateResource.Cache

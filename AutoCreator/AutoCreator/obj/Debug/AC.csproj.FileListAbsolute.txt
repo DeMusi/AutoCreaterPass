@@ -1,0 +1,11 @@
+C:\Users\асус\Documents\Visual Studio 2012\Projects\AutoCreator\AutoCreator\bin\Debug\AutoCreator.exe.config
+C:\Users\асус\Documents\Visual Studio 2012\Projects\AutoCreator\AutoCreator\obj\Debug\AC.csproj.ResolveComReference.cache
+C:\Users\асус\Documents\Visual Studio 2012\Projects\AutoCreator\AutoCreator\obj\Debug\AutoCreator.exe
+C:\Users\асус\Documents\Visual Studio 2012\Projects\AutoCreator\AutoCreator\obj\Debug\AutoCreator.pdb
+C:\Users\асус\Documents\Visual Studio 2012\Projects\AutoCreator\AutoCreator\bin\Debug\AutoCreator.exe
+C:\Users\асус\Documents\Visual Studio 2012\Projects\AutoCreator\AutoCreator\bin\Debug\AutoCreator.pdb
+C:\Users\асус\Documents\Visual Studio 2012\Projects\AutoCreator\AutoCreator\obj\Debug\AC.csprojResolveAssemblyReference.cache
+C:\Users\асус\Documents\Visual Studio 2012\Projects\AutoCreator\AutoCreator\obj\Debug\AutoCreator.Editor.resources
+C:\Users\асус\Documents\Visual Studio 2012\Projects\AutoCreator\AutoCreator\obj\Debug\AutoCreator.Form1.resources
+C:\Users\асус\Documents\Visual Studio 2012\Projects\AutoCreator\AutoCreator\obj\Debug\AutoCreator.Properties.Resources.resources
+C:\Users\асус\Documents\Visual Studio 2012\Projects\AutoCreator\AutoCreator\obj\Debug\AC.csproj.GenerateResource.Cache
